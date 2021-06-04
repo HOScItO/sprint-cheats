@@ -1,8 +1,3 @@
-<h3 align='center'> Sprint Cheats [ v3.1 ] </h3>
-<br/>
-
-## About
-
 **Sprint Cheats** is an open source, self-hosted, continuous hack client distribution platform.
 There are many distribution platforms of these hacks, only that our differs in ease and accessibility. 
 
@@ -20,6 +15,8 @@ There are many distribution platforms of these hacks, only that our differs in e
 | Sprint Cheats `2.7`  | Diamonds systems |
 | Sprint Cheats `2.8`  | Promocode system |
 | Sprint Cheats `3.1`  | Optimized |
+
+[![Image2](previews/first.png)](previews/second.png)
 
 ## Demo
 [See demo.](http://sprint-cheats.mygamesonline.org/index.php)
