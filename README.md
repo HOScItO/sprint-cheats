@@ -16,7 +16,7 @@ There are many distribution platforms of these hacks, only that our differs in e
 | Sprint Cheats `2.8`  | Promocode system |
 | Sprint Cheats `3.1`  | Optimized |
 
-[![Image2](previews/first.png)](previews/second.png)
+[![Image2](previews/second.png)](previews/second.png)
 
 ## Demo
 [See demo.](http://sprint-cheats.mygamesonline.org/index.php)
